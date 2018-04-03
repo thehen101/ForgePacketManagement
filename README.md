@@ -4,7 +4,7 @@ This is a core mod for the Minecraft Forge Modding API that allows developers to
 ##### Latest: Version 1.0 for Minecraft 1.8
 
 ## Using this mod
-Whilst designing this mod I intended it to as simple as possible to use - to use it with your mod, download a compiled jar from the releases section or build one yourself and add the jar to your workspace. To use it in your code, create a class that implements `PacketQueueListener` and implement the method `onPacketQueued`:
+Whilst designing this mod I intended it to be as simple as possible to use - to use it with your mod, download a compiled jar from the releases section or build one yourself and add the jar to your workspace. To use it in your code, create a class that implements `PacketQueueListener` and implement the method `onPacketQueued`:
 ```java
 public class MyPacketListener implements PacketQueueListener {
 
