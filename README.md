@@ -1,5 +1,5 @@
 # Forge Packet Management
-This is a core mod for the Minecraft Forge Modding API that allows developers to manage and manipulate outgoing packets easily. This mod was designed for Minecraft 1.8, however other version may work.
+This is a core mod for the Minecraft Forge Modding API that allows developers to manage and manipulate outgoing packets easily. This mod was designed for Minecraft 1.8, however other versions may work (but will require modification of the code as 1.8 is the only whitelisted version the mod will launch with).
 
 ##### Latest: Version 1.0 for Minecraft 1.8
 
